@@ -1,0 +1,20 @@
+{
+    "name": "daniel/refactoring-guru",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Creational\\FactoryMethod\\": "creational-patterns/factory-method/src",
+            "Creational\\AbstractFactory\\": "creational-patterns/abstract-factory/src"
+        },
+        "files": [
+            "helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Daniel Neto",
+            "email": "danielneto314@gmail.com"
+        }
+    ],
+    "require": {}
+}
